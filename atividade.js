@@ -1,5 +1,5 @@
 const userName = 'seu_nome_de_usuário';
-const apiUrl = `https://api.github.com/users/${userName}`;
+const apiUrl = `https://github.com/GabrielCecconi9`;
 
 async function fetchGitHubUserData() {
   try {
